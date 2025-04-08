@@ -47,7 +47,3 @@ Você pode acessar diretamente o notebook pelo Google Colab clicando no botão a
 
 ---
 
-## 👨‍🎓 Autor
-
-Este projeto foi desenvolvido por **[Seu Nome Aqui]**, como parte da disciplina de **Estatística Aplicada**.
-
